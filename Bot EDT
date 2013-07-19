@@ -1,12 +1,5 @@
 var wMsg = [
-	"here's a tasty reward just for you (>_<)-#",
-	"have a waffle (>_<)-#",
-	"puppies aren't just for christmas, they are forever. on the other hand, waffles are for now!! om nom nom nom nom (>_<)-#",
-	"nice to eat you, waffle? (>_<)-#",
-	"if promises are waffles and waffles are promises, does that mean that promises are just for the moment in which they are consumed? #-(>_<)-#",
-	"waffle waffle waffle waffle waffle, yeah! (>_<)-#",
-	"great things come to those who wa-- ooo a waffle! (>_<)-#",
-	"a waffley waffle just for waffling on, you waffle! (>_<)-#",
+	" Quem ainda nao é do grupo, aqui segue o link do mesmo. Lá voce tem informações sobre vagas de cargos e entre outras coisas : https://www.facebook.com/groups/EDTplugdj/",
 ];
 
 String.prototype.equalsIgnoreCase = function(other) { 
