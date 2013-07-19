@@ -1,5 +1,5 @@
 var wMsg = [
-	" Quem ainda nao é do grupo, aqui segue o link do mesmo. Lá voce tem informações sobre vagas de cargos e entre outras coisas : https://www.facebook.com/groups/EDTplugdj/",
+	" Entra no nosso grupo ? Lá voce tem informações sobre vagas de cargos e entre outras coisas : https://www.facebook.com/groups/EDTplugdj/",
 ];
 
 String.prototype.equalsIgnoreCase = function(other) { 
