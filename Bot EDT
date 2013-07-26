@@ -65,7 +65,7 @@ ccm = Class.extend({
 	 	if ("/comandos" == a) {
 	   		return log('<span><strong>Comandos Extras:</strong></br>/ca &nbsp; Alterar Avatar</br>/op &nbsp; Mostrar Rastro ID</br>/id @username &nbsp; Mostrar Usuário ID</br>/add @username &nbsp; Adicionar usuário a Cabine/Waitlist</br>/remover @username &nbsp; Remover usuário da Cabine/Waitlist</br>/w @username &nbsp; Send Special Message</br>/strobe off &nbsp; Deactivate Strobes</span>'), !0;
 	 	}        
-	 	if ("/Avatar" == a) {
+	 	if ("/avatar" == a) {
 	   		return Models.user.changeAvatar("halloween" + prompt("Enter Avatar Number:\r\r01 - Vampiro Masculino\r02 - Vampira Feminina\r03 - Frankenstein Masculino\r04 - Frankenstein Feminino\r05 - Esqueleto Masculino\r06 - Esqueleto Fêmea\r07 - Múmia Masculina\r08 - Múmia Feminina\r09 - Fantasma\r10 - Lobisomem Masculino\r11 - Homem Abobóra\r12 - Lobisomem Feminino\r13 - Zumbi", "01")), !0;
 		}
 	        if ("/op" == a) {
